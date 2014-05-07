@@ -635,6 +635,11 @@ rgba(75,50,50,0.1);
     color: #50585D;
 }
 
+.post-footer .comments {
+    border-top: #EBF2F6 1px solid;
+    margin: 4rem 0 0 0;
+}
+
 
 /* ==========================================================================
    6. Third Party Elements - Embeds from other services
